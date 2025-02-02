@@ -4,7 +4,7 @@
 ### The dataset is ideal for practicing machine learning tasks such as demand forecasting, dynamic pricing, and inventory optimization. It allows data scientists to explore time series forecasting techniques, study the impact of external factors like weather and holidays on sales, and build advanced models to optimize supply chain performance.
 
 # Data Collection:
-### This dataset is collected from Kaggle 9https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset) which is retail_store_inventory.csv: This dataset has 15 columns and contains
+### This dataset is collected from Kaggle (https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset) which is retail_store_inventory.csv: This dataset has 15 columns and contains
 ### data of store categorized by products across regions.
 
 #  Objective:
